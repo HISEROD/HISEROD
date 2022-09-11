@@ -5,9 +5,9 @@ Full-Stack Software Engineer
 ----------------------------
 
 * 🌍  I'm based in the St. Louis area.
-* 🖥️  See my portfolio at [HISEROD.github.io](http://hiserod.github.io)
+* 🖥️  Check out my old website at [HISEROD.github.io](http://hiserod.github.io)
 * ✉️  You can contact me at [mannyhise1@gmail.com](mailto:mannyhise1@gmail.com)
-* 🚀  I'm currently working on [example.com](http://example.com)
+* 🚀  I'm currently working on a super secret project.
 * 🧠  I'm learning Blazor Webassembly.
 * 🤝  I'm open to collaborating on 3D graphics, mathematics, or other suitably nerdy projects.
 * ⚡  Also, I spend too much time practicing typing.
