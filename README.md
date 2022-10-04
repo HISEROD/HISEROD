@@ -34,13 +34,6 @@ Full-Stack Software Engineer
 
 <p align="left"> <a href="https://www.github.com/HISEROD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yeet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/HISEROD"><img src="https://github-readme-stats.vercel.app/api?username=HISEROD&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="HISEROD's GitHub stats" /></a>
-
-<a href="https://github.com/HISEROD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HISEROD&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <!--
 **HISEROD/HISEROD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
