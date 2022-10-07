@@ -7,7 +7,7 @@ Full-Stack Software Engineer
 * 🌍  I'm based in the St. Louis area.
 * 🖥️  Check out my old website at [HISEROD.github.io](http://hiserod.github.io)
 * ✉️  You can contact me at [mannyhise1@gmail.com](mailto:mannyhise1@gmail.com)
-* 🚀  I'm currently working on a new website!
+* 🚀  I'm currently working on [Minesweeper](https://github.com/HISEROD/Minesweeper) in Python.
 * 🧠  I'm learning Blazor Webassembly.
 * 🤝  I'm open to collaborating on 3D graphics, mathematics, or other suitably nerdy projects.
 * ⚡  Also, I spend too much time practicing typing.
