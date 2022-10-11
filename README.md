@@ -1,8 +1,14 @@
+<div align="center">
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Immanuel Hise
 =====================================================================================================================================
 
 Full-Stack Software Engineer
 ----------------------------
+
+</div>
+
+<div>
 
 * 🌍  I'm based in the St. Louis area.
 * 🖥️  Check out my old website at [HISEROD.github.io](http://hiserod.github.io)
@@ -12,9 +18,13 @@ Full-Stack Software Engineer
 * 🤝  I'm open to collaborating on 3D graphics, mathematics, or other suitably nerdy projects.
 * ⚡  Also, I spend too much time practicing typing.
 
+</div>
+
+<div align="center">
+
 ### Skills
 
-<p align="left">
+<p align="center">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
@@ -32,7 +42,7 @@ Full-Stack Software Engineer
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/HISEROD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yeet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="center"> <a href="https://www.github.com/HISEROD" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/yeet" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -41,6 +51,8 @@ Full-Stack Software Engineer
 <a href="http://www.github.com/HISEROD"><img src="https://github-readme-stats.vercel.app/api?username=HISEROD&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&show_icons=true" alt="HISEROD's GitHub stats" /></a>
 
 <a href="https://github.com/HISEROD" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HISEROD&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+</div>
 
 <!--
 **HISEROD/HISEROD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
